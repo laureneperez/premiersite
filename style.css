@@ -1,0 +1,84 @@
+body
+{
+    background-image: url("madalaa.png");
+    margin: 30px;
+    background-attachment: fixed; /* Le fond restera fixe */
+    background-repeat: no-repeat; /* Le fond ne sera pas répété */
+    background-position: top right; /* Le fond sera placé en haut à droite */
+    margin: 30px;
+    font-family: snellroundband
+}
+
+
+nav
+{
+    display: inline-block;
+    width: 740px;
+    text-align: left;
+}
+
+nav ul
+{
+    list-style-type: none;
+}
+
+nav li
+{
+    display: inline-block;
+    margin-right: 15px;
+}
+
+nav a
+{
+    font-size: 1.3em;
+    color: #181818;
+    padding-bottom: 3px;
+    text-decoration: none;
+}
+
+nav a:hover
+{
+    color: black;
+    border-bottom: 3px solid #FFFFFF;
+}
+
+nav
+{ 
+    font-family: snellroundhand;
+    font-size: 25px;  
+        }
+nav
+{
+
+    border: 3px solid white;
+    margin: 30px;
+    width: 47%;
+        
+
+}
+h2
+{
+
+     border: 3px solid white;
+           width: 150px; 
+    margin: auto; 
+    text-align: justify;
+    
+    padding: 8px;
+    margin-bottom: 20px;
+      margin-left: auto;
+   margin-right: auto;
+   width: 25em;
+    text-align:center;
+    font-size: 30px
+}
+
+img
+ {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+    
